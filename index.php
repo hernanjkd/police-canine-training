@@ -1,0 +1,1 @@
+<?php header('Location: http://policecaninetraining.com/wp/?page_id=8'); ?>
